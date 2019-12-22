@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c27c8204.chunk.css",
-    "main.js": "/static/js/main.8f8be7b9.chunk.js",
-    "main.js.map": "/static/js/main.8f8be7b9.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.3ec552eb.js",
-    "runtime~main.js.map": "/static/js/runtime~main.3ec552eb.js.map",
-    "static/js/2.123b3b24.chunk.js": "/static/js/2.123b3b24.chunk.js",
-    "static/js/2.123b3b24.chunk.js.map": "/static/js/2.123b3b24.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70a11de9c71fdaf28cb196efb649f268.js": "/precache-manifest.70a11de9c71fdaf28cb196efb649f268.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c27c8204.chunk.css.map": "/static/css/main.c27c8204.chunk.css.map"
+    "main.css": "/dad-jokes-application/static/css/main.c27c8204.chunk.css",
+    "main.js": "/dad-jokes-application/static/js/main.8f8be7b9.chunk.js",
+    "main.js.map": "/dad-jokes-application/static/js/main.8f8be7b9.chunk.js.map",
+    "runtime~main.js": "/dad-jokes-application/static/js/runtime~main.234257e0.js",
+    "runtime~main.js.map": "/dad-jokes-application/static/js/runtime~main.234257e0.js.map",
+    "static/js/2.123b3b24.chunk.js": "/dad-jokes-application/static/js/2.123b3b24.chunk.js",
+    "static/js/2.123b3b24.chunk.js.map": "/dad-jokes-application/static/js/2.123b3b24.chunk.js.map",
+    "index.html": "/dad-jokes-application/index.html",
+    "precache-manifest.975cba518989dc99c0591ec8483eb48a.js": "/dad-jokes-application/precache-manifest.975cba518989dc99c0591ec8483eb48a.js",
+    "service-worker.js": "/dad-jokes-application/service-worker.js",
+    "static/css/main.c27c8204.chunk.css.map": "/dad-jokes-application/static/css/main.c27c8204.chunk.css.map"
   }
 }
